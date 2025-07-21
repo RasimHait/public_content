@@ -1,0 +1,10 @@
+/* ШРИФТЫ ——————————————————————————————————————————————————————————————————————*/
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&display=swap'); /*'PT Sans Narrow', sans-serif*/
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300;400&display=swap'); /*'Alegreya Sans SC', sans-serif*/
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@700&display=swap'); /*'El Messiri', sans-serif*/
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans:wght@200&display=swap'); /*'Alumni Sans', sans-serif*/
+@font-face {
+    font-family: "Old Fenris";
+    src: url("https://assets.blz-contentstack.com/v3/assets/blt9c12f249ac15c7ec/blt87dbca38eae7d12d/625007b988b34525a18e6563/OldFenris-Regular.otf") format("opentype");
+}
