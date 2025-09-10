@@ -10,7 +10,7 @@
   initial-value: #0000;
 }
 
-.neon {
+#theme_toggle {
   --x: 1deg;
   --c: #0000;
   font-size: 3rem;
@@ -100,7 +100,7 @@
 }
 
 @media print {
-  .neon {
+  #theme_toggle {
     background: none;
     
     &, &::before, &::after {
@@ -111,7 +111,7 @@
 }
 
 @media (prefers-reduced-motion) {
-  .neon, .neon::before, .neon::after {
+  #theme_toggle, #theme_toggle::before, #theme_toggle::after {
     transition: none !important;
     animation: none !important;
   }
